@@ -1,4 +1,4 @@
-package weeklyChallenge;
+    package weeklyChallenge;
 
 
 import java.util.ArrayList;
